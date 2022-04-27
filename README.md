@@ -5,7 +5,7 @@ This codebase follows accessibility standards so that the site is optimized for 
 
 You will find semantic HTML elements when you view the source code. The element follows a logical structure independent of styling and positioning. Image elements have alt attributes and titles are concise and descriptive 
 
-![alt text] (<img src="./assets/images/Horiseon.png" alt=""/>)
+<img src="./assets/images/Horiseon.png" alt=""/>
 
 Technologies - HTML and CSS
 
