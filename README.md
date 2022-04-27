@@ -1,4 +1,4 @@
-# code-refactory-horiseon
+# Code-Refactory-Horiseon
 Web accessibility is important to ensure people with disabilities can access and interact with the website. 
 
 This codebase follows accessibility standards so that the site is optimized for search engines.
